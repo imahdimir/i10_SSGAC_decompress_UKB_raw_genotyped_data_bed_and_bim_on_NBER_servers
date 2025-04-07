@@ -2,7 +2,7 @@
 
 ukb_dir="/disk/genetics/ukb/mahdimir"
 
-out_dir="$ukb_dir/UKB_NON_PROJECT_DATA/UKBv3_raw_genotyped_decompressed"
+out_dir="$ukb_dir/UKB_NON_PROJECT_DATA/i24_n1_SSGAC_OnlyOnNBERserver_MahdiUKBws_UKB_NON_PROJECT_DATA_UKBv3_raw_genotyped_decompressed"
 mkdir -p $out_dir
 
 src_dir="/disk/genetics/data/ukb/private/v3/raw/genotyped"
